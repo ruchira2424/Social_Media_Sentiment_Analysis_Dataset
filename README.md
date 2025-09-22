@@ -31,9 +31,10 @@ To run the notebook, you need the following Python libraries:
 - `numpy`
 
 You can install them using pip:
-```bash
+
 pip install pandas numpy
 
+#!/bin/bash
 # Clone the repository
 git clone https://github.com/your-username/social-media-sentiment-analysis.git
 
