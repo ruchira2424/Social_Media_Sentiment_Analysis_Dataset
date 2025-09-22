@@ -34,9 +34,9 @@ You can install them using pip:
 
 pip install pandas numpy
 
-#!/bin/bash
-# Clone the repository
+
+## Clone the repository
 git clone https://github.com/your-username/social-media-sentiment-analysis.git
 
-# Navigate to the repository folder
+## Navigate to the repository folder
 cd social-media-sentiment-analysis
